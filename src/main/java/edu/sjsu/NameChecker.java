@@ -1,4 +1,4 @@
-cdpackage edu.sjsu;
+package edu.sjsu;
 import java.util.*;
 public class NameChecker {
     /**
